@@ -1,7 +1,6 @@
-# GeoGrapher
+# p5.js-Line-Chart
+A simple and configurable line chart made with p5.js.
 
-GeoGrapher is an online graphing software for CS problems created by USACO participants.
+![](https://i.imgur.com/0AC1x13.png)
 
-## How to use
-
-##### Simply enter the top left/right or bottom left/right coordinates for your geometric figure. The website just connects the dots you provide and if you provide which shape you're using it will find the remaining points optimally.
+See **sketch.js** and **LineChart.js** for usage.
